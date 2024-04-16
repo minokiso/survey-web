@@ -1,0 +1,11 @@
+
+.container {
+		padding: 15px;
+		background-color: #efe2cf;
+		font-family: STKaiti;
+		color: #a65037;
+}
+p {
+		margin-top: 20px;
+		margin-bottom: 20px;
+}

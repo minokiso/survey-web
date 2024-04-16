@@ -1,0 +1,25 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index2",
+			"style": {
+				"navigationBarTitleText": "中医体质问卷表（中医学会标准）"
+			}
+		},
+		{
+			"path": "pages/survey-result/survey-result2",
+			"style": {
+				"navigationBarTitleText": "结果分析"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}

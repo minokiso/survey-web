@@ -1,0 +1,31 @@
+
+.container {
+		padding: 15px;
+		background-color: #efe2cf;
+		font-family: STKaiti;
+		color: #a65037;
+		height: 92vh;
+}
+p {
+		margin-top: 20px;
+		margin-bottom: 20px;
+}
+.result {
+		text-align: center;
+		font-size: x-large;
+}
+.tizhi {
+		color: #a60000;
+		text-decoration: underline
+}
+.card-actions {
+		display: flex;
+		justify-content: space-between;
+}
+.grid-item-box {
+		flex: 1;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+}
