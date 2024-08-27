@@ -1,7 +1,13 @@
 {
 	"pages": [
 		{
-			"path": "pages/index/index2",
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/survey/survey",
 			"style": {
 				"navigationBarTitleText": "中医体质问卷表（中医学会标准）"
 			}
@@ -10,6 +16,18 @@
 			"path": "pages/survey-result/survey-result2",
 			"style": {
 				"navigationBarTitleText": "结果分析"
+			}
+		},
+		{
+			"path": "pages/product-list/product-list",
+			"style": {
+				"navigationBarTitleText": "产品列表"
+			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "联系我们"
 			}
 		}
 	],
